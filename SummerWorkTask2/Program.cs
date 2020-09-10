@@ -7,7 +7,7 @@ namespace SummerWorkTask2
         static void Main(string[] args)
         {
             string product;
-            double cost;
+            double cost=0;
             int numberOfProducts = 0;
             double costLeastExpensive, costMostExpensive;
             string leastExpensiveProduct, mostExpensiveProduct;
